@@ -18,7 +18,7 @@ StakeDAO provides a verity of DeFi services. It actively incentivizes it's users
 
 Disbursement of the SDT token will occur on a cyclic basis determined by governance. At end of each cycle, amount is determined based on the current percentage that the investor has contributed and thereby the calculated amount SDT will be distributed.
 
-![StakeDAO%2030f9378451bd4deaad53d9c267f17ed2/drawn-stakedao.png](StakeDAO%2030f9378451bd4deaad53d9c267f17ed2/drawn-stakedao.png)
+![stake-dao](./assets/stakedao.png)
 
  
 
