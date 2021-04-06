@@ -1,0 +1,3 @@
+# StakeDAO
+
+Community owned validator
