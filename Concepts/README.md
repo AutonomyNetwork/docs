@@ -1,9 +1,9 @@
 # Concetps 
 
-List of Concepts 
+List of core modules and concepts 
 
-### [AutoIssue](./Issue.md)
-### [AutoGovernance](./Governance.md)
-### [AutoDex](./Dex.md)
-### [AutoVault](./Vault)
-### [StakeDAO](./StakeDAO.md)
+[AutoIssue](./Issue.md)
+[AutoGovernance](./Governance.md)
+[AutoDex](./Dex.md)
+[AutoVault](./Vault)
+[StakeDAO](./StakeDAO.md)
