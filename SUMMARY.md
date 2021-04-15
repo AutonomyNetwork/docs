@@ -3,7 +3,7 @@
 * [Autonomy Network Documentation](README.md)
 * [Tutorials](tutorials/README.md)
 * [How-to-guides](how-to-guides/README.md)
-* [Concepts](concepts)
+* [Concepts](concepts/README.md)
   * [StakeDAO](concepts/stakedao.md)
   * [Issue](concepts/issue.md)
   * [Dex](concepts/dex.md)
