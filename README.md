@@ -10,7 +10,7 @@ Provide hands on introduction for new developers to build, develop applications 
 
 Pratical steps to more familiar with Autonomy.
 
-## [Concepts](./concepts/README.md)
+## [Concepts](./concepts)
 
 Helps developers to know more about key-topics and concepts of Autonomy.
 
