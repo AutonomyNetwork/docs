@@ -10,5 +10,5 @@
   * [Vault](concepts/vault.md)
   * [Governance](concepts/governance.md)
 * [Reference](reference/README.md)
-  * [index](reference/index.md)
+
 
