@@ -1,4 +1,5 @@
-# Index of Concepts
+# Concepts
 
-- [AutoVault](./vault.md)
-- [AutoIssue](./issue.md)
+* [AutoVault](vault.md)
+* [AutoIssue](issue.md)
+
