@@ -13,6 +13,7 @@
 ## About Us
 
 * [🚀 Vision, Mission](about-us/vision-mission.md)
+* [👷♂ What we do](about-us/what-we-do.md)
 
 ## Data Science
 
