@@ -14,6 +14,12 @@
 
 * [🚀 Vision, Mission](about-us/vision-mission.md)
 
-## 📊 ML/AI
+## Data Science
 
-* [Page 1](ml-ai/page-1.md)
+* [📊 Generative AI Models](data-science/generative-ai-models.md)
+* [✴ Decentralized AI Models](data-science/decentralized-ai-models.md)
+
+## Blockchain
+
+* [🪙 Auton Token](blockchain/auton-token.md)
+* [📃 Smart Contracts](blockchain/smart-contracts.md)
