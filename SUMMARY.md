@@ -23,3 +23,10 @@
 
 * [🪙 Auton Token](blockchain/auton-token.md)
 * [📃 Smart Contracts](blockchain/smart-contracts.md)
+* [🔡 Use Cases](blockchain/use-cases.md)
+
+## COLLABORATING
+
+* [🤝 Contributing](collaborating/contributing.md)
+* [🔯 Product  links](collaborating/product-links.md)
+* [🪂 Reach Us](collaborating/reach-us.md)
