@@ -1,25 +1,7 @@
 ---
-description: Autonomy Protocol
+description: Autonomy - A Vision for an AI-Driven, Decentralised Creator Economy
 ---
 
-# Documentation
+# 🙏 Welcome!
 
-#### Table of Contents
-
-1\. Introduction
-
-2\. Generative AI Models
-
-3\. Decentralized AI Models
-
-4\. Auton Token
-
-5\. Blockchain and Smart Contracts
-
-6\. Use Cases
-
-7\. Contributing
-
-8\. Light paper
-
-\
+Welcome to Autonomy, a community-owned protocol that seamlessly integrates generative AI, blockchain technology, and cryptocurrency. This unique amalgamation facilitates diverse creative possibilities within a secure and efficient ecosystem. This documentation will guide you through the different aspects of Autonomy.
