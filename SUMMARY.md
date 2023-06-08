@@ -26,6 +26,10 @@
 * [📃 Smart Contracts](blockchain/smart-contracts.md)
 * [🔡 Use Cases](blockchain/use-cases.md)
 
+## Papers
+
+* [📰 Light paper](papers/light-paper.md)
+
 ## COLLABORATING
 
 * [🤝 Contributing](collaborating/contributing.md)

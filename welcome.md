@@ -1,5 +1,5 @@
 ---
-description: Autonomy Documentation
+description: Autonomy - A Vision for an AI-Driven, Decentralised Creator Economy
 ---
 
 # 🙏 Welcome!
