@@ -1,4 +1,4 @@
-# Contributing
+# 7. Contributing
 
 We value and encourage community contributions. Whether you want to improve the AI models, contribute to the codebase, or share ideas, this section provides guidelines on how to get involved.
 
