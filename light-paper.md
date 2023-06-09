@@ -4,6 +4,8 @@ description: Autonomy - A Vision for an AI-Driven, Decentralized Creator Economy
 
 # Light Paper
 
+### &#x20;_`WIP : This paper currently work in progress, subject to change as per core contributors`_&#x20;
+
 ### Introducing Autonomy
 
 Welcome to Autonomy, a transformative concept that merges the promise of generative AI, the expansive potential of the creator economy, and the transformative power of cryptocurrency. As a decentralized autonomous organization (DAO), Autonomy provides creators with a platform that allows the use of AI models to generate novel digital assets, the ability to tokenize these assets through Non-Fungible Tokens (NFTs), and a dedicated digital currency, Auton.
