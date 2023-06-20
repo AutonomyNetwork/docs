@@ -12,7 +12,7 @@ Welcome to Autonomy, a transformative concept that merges the promise of generat
 
 #### The Power of Generative AI Models
 
-At the core of Autonomy are generative AI models. Leveraging machine learning technologies such as Generative Adversarial Networks (GANs), these models can produce new content, ranging from images and videos to GIFs and game assets.
+At the core of Autonomy are generative AI models. Leveraging machine learning technologies such as Stable diffusion models, these models can produce new content, ranging from images and videos to GIFs and game assets.
 
 In a commitment to fostering a decentralized creative space, Autonomy provides creators with the tools necessary to train these AI models, allowing them to imprint their unique artistic flair into the AI and create custom digital assets.
 
