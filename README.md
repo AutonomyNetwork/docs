@@ -1,5 +1,7 @@
 ---
-description: Autonomy - A Vision for an AI-Driven, Decentralised Creator Economy
+description: >-
+  LineaX - Gateway to seamless decentralised perpetual trading on the Linea
+  Blockchain.
 ---
 
 # 🙏 Welcome!
